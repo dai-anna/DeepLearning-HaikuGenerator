@@ -1,0 +1,14 @@
+pandas
+black
+torch
+pyarrow
+boto3
+tensorflow
+
+# scikit-learn
+# torchvision
+# torchaudio
+# pytorch-nlp
+# optuna
+# plotly
+# nbformat
